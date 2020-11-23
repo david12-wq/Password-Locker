@@ -14,7 +14,7 @@ David kamau
 ### Git Hub Live Link
 *click to view my portfolio*
  {`https://github.com/david12-wq/Password-Locker.git}
- ## Technologies usedt 
+ ## Technologies used
  python 3.8
  Git
 ## Copyright and License -->
